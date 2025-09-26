@@ -20,8 +20,12 @@ Lightweight, easy to use, and fully compatible with **Forge 1.20.X**.
 ---
 
 ## 🐛 Issues & Suggestions
-If you encounter a bug or want to request a feature, please head over to the  
-[Issues tab](../../issues) and open a new ticket.
+If you encounter a bug or want to request a feature, please use the following links:
+
+- 🐞 [Report a Bug](../../issues/new?template=bug_report.md)  
+- ✨ [Request a Feature](../../issues/new?template=feature_request.md)  
+- ❓ [Ask a Question](../../issues/new?template=general_question.md)  
+
 
 ---
 
